@@ -8,6 +8,12 @@
   margin-top: 3px;
 }
 
+.noto-sans-hanunoo-regular {
+  font-family: "Noto Sans Hanunoo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body {
   color: #dbdbda;
   font-family: VT323;
